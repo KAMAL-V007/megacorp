@@ -1,5 +1,4 @@
 partner list
-
-SaleInc
+SalesInc
 TheStartup
-https://github.com/KAMAL-V007/megacorp.git
+ClosedML
